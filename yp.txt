@@ -1,0 +1,3 @@
+git add (file yang akan ente upload)
+git commit -m "by ente"
+git push -u origin master
